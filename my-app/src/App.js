@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
             
-                <NavbarFront/>
+            <NavbarFront/>
 
             <Container>
                     <HeaderFront />
@@ -41,7 +41,7 @@ function App() {
             </Container>
 
             
-                    <FooterFront />
+            <FooterFront />
     </div>
   );
 }
